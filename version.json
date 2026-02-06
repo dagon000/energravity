@@ -1,5 +1,5 @@
 {
-  "version": "0.4.8",
-  "changelog": "📝 Changelog: 2 лютого 2026 — Покращено візуальний відгук, підвищено стабільність та виправлено дрібні баги.",
-  "download_url": "https://github.com/dagon000/energravity/releases/download/0.4.8/energravity-v0.4.8.apk"
+  "version": "0.4.9",
+  "changelog": "Біла тема, фікс сповіщень і віджета. Оновлення інтерфейсу",
+  "download_url": "https://github.com/dagon000/energravity/releases/download/0.4.9/app-release.apk"
 }
